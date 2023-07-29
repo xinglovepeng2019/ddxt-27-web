@@ -1,0 +1,5 @@
+# 注释  忽视 index.js
+index.js
+
+#忽视js下的js文件
+js/*.js
